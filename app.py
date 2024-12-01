@@ -17,7 +17,7 @@ def main():
                         'Contoh: makanan enak', 
                         height=150)
     
-    if st.button('🔍 Mulai Analisis'):
+    if st.button('🔍 Mulai Analisiss'):
         if text.strip() == '':
             st.error('Teks ulasan tidak boleh kosong. Silakan masukkan teks yang valid.', icon="🚨")
         else:
