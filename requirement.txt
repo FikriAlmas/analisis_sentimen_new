@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+sastrawi
+nltk
+tfidf
+openpyxl
+matplotlib
+imblearn
+seaborn
+streamlit
